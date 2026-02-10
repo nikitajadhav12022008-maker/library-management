@@ -15,6 +15,13 @@ It checks whether the number of books entered matches the actual list of books.
 - Uses OOP concepts (class, object, constructor, methods)
   -------------
 
+##📁Project structure:
+library management/
+|
+|_____library_management.py
+|_____README.md
+
+------------
 ## 🚀 How to Run:
 1. Clone the repository  
 2. Run the Python file:
@@ -33,7 +40,7 @@ It checks whether the number of books entered matches the actual list of books.
 Nikita Jadhav
 --------
 
-✨If you like repository don't forget to star......
+✨If you like this repository don't forget to star......
 
 
 
