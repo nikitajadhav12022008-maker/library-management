@@ -17,12 +17,12 @@ It checks whether the number of books entered matches the actual list of books.
 - Uses OOP concepts (class, object, constructor, methods)
 -----
 
-##📁Project structure:
+## 📁Project structure:
 
-library management/
-|
-|_____library_management.py
-|_____README.md
+- library management/
+- |
+- |_____library_management.py
+- |_____README.md
 ----
 
 ## 🚀 How to Run:
