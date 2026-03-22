@@ -35,10 +35,10 @@ library management/
    
 ## 🧠Concepts used:
 
--class and objects
--constructor
--instance variable
--functions and conditionals
+- Class and objects
+- Constructor
+- Instance variable
+- Functions and conditionals
 
 ---
 
