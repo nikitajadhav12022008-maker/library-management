@@ -6,7 +6,9 @@ It checks whether the number of books entered matches the actual list of books.
 ----
 
 ## 🛠 Technologies Used:
+
 - Python 3
+ 
 ---
 
 ## 📌 Features:
