@@ -28,14 +28,6 @@ It checks whether the number of books entered matches the actual list of books.
  
 ----
 
-## 🚀 How to Run:
-
-1. Clone the repository  
-2. Run the Python file:
-   ```bash
-   python library_management.py
-   ---
-   
 ## 🧠Concepts used:
 
 - Class and objects
@@ -44,6 +36,16 @@ It checks whether the number of books entered matches the actual list of books.
 - Functions and conditionals
 
 ---
+
+## 🚀 How to Run:
+
+1. Clone the repository  
+2. Run the Python file:
+   ```bash
+   python library_management.py
+   ---
+   
+
 
 ## 👩‍💻Author:
 
