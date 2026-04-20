@@ -43,6 +43,7 @@ It checks whether the number of books entered matches the actual list of books.
 2. Run the Python file:
    ```bash
    python library_management.py
+   
    ---
    
 
@@ -50,6 +51,7 @@ It checks whether the number of books entered matches the actual list of books.
 ## 👩‍💻Author:
 
 Nikita Jadhav
+
 ----
 
 ✨If you like this repository don't forget to star......
