@@ -23,9 +23,9 @@ It checks whether the number of books entered matches the actual list of books.
 ## 📁Project structure:
 
 - library management/
-- |
 - |_____library_management.py
 - |_____README.md
+ 
 ----
 
 ## 🚀 How to Run:
