@@ -17,6 +17,7 @@ It checks whether the number of books entered matches the actual list of books.
 - Display available books
 - Validate number of books
 - Uses OOP concepts (class, object, constructor, methods)
+ 
 -----
 
 ## 📁Project structure:
